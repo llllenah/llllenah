@@ -40,7 +40,7 @@ Interested in Backend Engineering, Data Engineering, and DevOps.
 | [devops-docker-pipeline](https://github.com/llllenah/devops-docker-pipeline) | FastAPI service with Docker, CI/CD via GitHub Actions | Python · FastAPI · Docker · GitHub Actions |
 | [pg-library-system](https://github.com/llllenah/pg-library-system) | PostgreSQL library system with stored procedures, triggers, RBAC | PostgreSQL · SQL |
 | [drone-ops-analyzer](https://github.com/llllenah/drone-ops-analyzer) | Drone operation anomaly detection pipeline | Python · SQLite · Pandas · Jupyter |
-| [tsp-solver](https://github.com/llllenah/tsp-solver) | TSP visualizer: Backtracking (N1 + lookahead) and Hill Climbing with 2-opt | Python · Tkinter · Matplotlib |
+| [TSP-solver-using-backtracking--N1-euristics-and-Hill](https://github.com/llllenah/TSP-using-backtracking--N1-euristics-and-Hill) | TSP visualizer: Backtracking (N1 + lookahead) and Hill Climbing with 2-opt | Python · Tkinter · Matplotlib |
 
 ---
 
