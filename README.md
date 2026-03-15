@@ -1,7 +1,7 @@
 # Hi, I'm Olena 👋
 
 **Junior Backend Engineer** · Kyiv, Ukraine  
-Computer Engineering student at Igor Sikorsky KPI · EPAM DevOps Alumni
+Computer Engineering student at Igor Sikorsky KPI
 
 ---
 
