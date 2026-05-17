@@ -1,50 +1,32 @@
-# Hi, I'm Olena 👋
+# Hi, I'm Olena
 
-**Junior Backend Engineer** · Kyiv, Ukraine  
-Computer Engineering student at Igor Sikorsky KPI
+**Junior Data Scientist / Data Analyst / ML Engineer**  
+Computer Engineering student at Igor Sikorsky KPI, Kyiv.
 
----
+I build applied data projects in computer vision, customer analytics, geospatial analysis, and forecasting. My strongest interests are defense-tech, marketing analytics, remote sensing, and practical ML systems that produce clear decisions rather than just notebook outputs.
 
-### About
+## Featured Projects
 
-I build backend systems and data pipelines — from optimized PostgreSQL architectures to containerized FastAPI services.  
-Interested in Backend Engineering, Data Engineering, and DevOps.
+| Project | Domain | Main skills |
+|---|---|---|
+| [uxo-detection-yolov8](https://github.com/llllenah/uxo-detection-yolov8) | Defense / Computer Vision | YOLOv8, RT-DETR, detection metrics, recall-focused evaluation |
+| [marketing-customer-segmentation](https://github.com/llllenah/marketing-customer-segmentation) | Marketing Analytics | RFM, churn features, K-Means, XGBoost, Streamlit |
+| [climate-risk-forecasting](https://github.com/llllenah/climate-risk-forecasting) | Time Series / Environment | LSTM, K-Means scenarios, weather data, SQL |
+| [invasive-species-risk-mapping](https://github.com/llllenah/invasive-species-risk-mapping) | Classification / GIS | Random Forest, Logistic Regression, feature importance |
+| [ndvi-vegetation-monitoring](https://github.com/llllenah/ndvi-vegetation-monitoring) | Remote Sensing | Google Earth Engine, Sentinel-2, NDVI, Folium |
 
----
+## Tech Stack
 
-### Tech Stack
+Python, SQL, Pandas, NumPy, scikit-learn, XGBoost, PyTorch, TensorFlow/Keras, YOLOv8, OpenCV, Streamlit, Plotly, Folium, PostgreSQL, SQLite, Git, Linux, Docker basics, AWS basics.
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+## What I Am Looking For
 
-**Backend & Databases**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+- Junior Data Scientist / Data Analyst roles
+- ML Engineer internships or junior positions
+- Marketing analytics, CRM, product analytics, defense-tech, GIS, or environmental data projects
 
-**DevOps & Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+## Contact
 
----
-
-### Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [devops-docker-pipeline](https://github.com/llllenah/devops-docker-pipeline) | FastAPI service with Docker, CI/CD via GitHub Actions | Python · FastAPI · Docker · GitHub Actions |
-| [pg-library-system](https://github.com/llllenah/pg-library-system) | PostgreSQL library system with stored procedures, triggers, RBAC | PostgreSQL · SQL |
-| [drone-ops-analyzer](https://github.com/llllenah/drone-ops-analyzer) | Drone operation anomaly detection pipeline | Python · SQLite · Pandas · Jupyter |
-| [TSP-solver-using-backtracking--N1-euristics-and-Hill](https://github.com/llllenah/TSP-using-backtracking--N1-euristics-and-Hill) | TSP visualizer: Backtracking (N1 + lookahead) and Hill Climbing with 2-opt | Python · Tkinter · Matplotlib |
-
----
-
-### Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/olena-serhiienko)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lena066636@gmail.com)
+- Email: lena066636@gmail.com
+- LinkedIn: [linkedin.com/in/olena-serhiienko](https://linkedin.com/in/olena-serhiienko)
+- GitHub: [github.com/llllenah](https://github.com/llllenah)
